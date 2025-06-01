@@ -1,0 +1,11 @@
+site_name: Weissbourd Lab Wiki
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Protocols: protocols.md
+  - Inventory: inventory.md
+  - Analysis Tools: analysis-tools.md
+  - Jellyfish Maintenance: jellyfish-maintenance.md
+  - Literature: literature.md
+
