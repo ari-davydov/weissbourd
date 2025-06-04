@@ -1,0 +1,7 @@
+body {
+  cursor: url('../assets/planula_cursor_32px.png'), auto;
+}
+
+a:hover {
+  cursor: url('../assets/medusa_cursor_32px.png'), pointer;
+}
