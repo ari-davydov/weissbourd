@@ -2,7 +2,8 @@
 
 Welcome to the Weissbourd Lab Wiki! This site contains protocols, resources, and documentation for lab members.
 
-\.
+*Protocols and Inventory pages are password-protected (with the Clytia Google Account password) – the wiki will be privately hosted once I transfer ownership to Weissbourd Github.*
+ -Ari
 
 
 ### Quick Links:

@@ -1,3 +1,10 @@
+<script>
+  var password = prompt("Enter password to access the Weissbourd Lab Wiki: (same as Clytia Google Account password)");
+  if (password !== "Clytia123!") {
+    document.body.innerHTML = "<h1>Access Denied</h1><p>Incorrect password. Message someone in the lab if you don't know the password (and you're not an intruder...) </p>";
+  }
+</script>
+
 # Protocols
 
 [View All Protocols in Google Drive Folder](https://drive.google.com/drive/folders/1RdV-SoqDuu1QvH93kl7xlkTsqbRCSdaN)

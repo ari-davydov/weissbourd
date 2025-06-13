@@ -1,3 +1,12 @@
+<script>
+  var password = prompt("Enter password to access the Weissbourd Lab Wiki: (same as Clytia Google Account password)");
+  if (password !== "Clytia123!") {
+    document.body.innerHTML = "<h1>Access Denied</h1><p>Incorrect password.</p>";
+  }
+</script>
+
+
+
 # Inventory
 
 [Open Full Inventory Google Sheet](https://docs.google.com/spreadsheets/d/1iXNCr99zkwkLIDlmf_3LmtFIzElFjvH_sGyCheEH_Ps/edit?gid=1032716157#gid=1032716157)

@@ -9,3 +9,5 @@ nav:
   - Jellyfish Maintenance: jellyfish-maintenance.md
   - Literature: literature.md
 
+extra_css:
+  - assets/custom.css
